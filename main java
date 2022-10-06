@@ -1,0 +1,23 @@
+public class Main {
+    public static void main(String[] args){
+        // print the pattern , question for output
+       /* System.out.println("*");
+       System.out.println("**");
+        System.out.println("***");
+        System.out.println("****");*/
+
+        //variable
+        int a = 10;
+        int b = 25;
+        int sum = a + b;
+       // System.out.println(sum);
+
+        int diff = a - b;
+       // System.out.println(diff);
+
+
+        //multiply in variable
+        int mul = a * b;
+        System.out.println(mul);
+    }
+}
